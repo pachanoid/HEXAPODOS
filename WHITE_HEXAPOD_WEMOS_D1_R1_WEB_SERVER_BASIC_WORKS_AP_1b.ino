@@ -20,7 +20,7 @@
 
 //SSID and Password to your ESP Access Point
 const char* ssid = "WHITE HEXAPOD";
-const char* password = "W123";
+const char* password = "w1234567890";
 
 
 SoftwareSerial BlueTooth(D5,D6);  // connect bluetooth module Tx=D5=Yellow wire Rx=D6=naranjo
